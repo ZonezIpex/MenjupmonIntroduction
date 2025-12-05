@@ -2,3 +2,5 @@
 ## AI를 활용하여 코로나 팬데믹 이후 사람과의 접촉이 줄어들고
 ## 실제 면접의 기회가 많이 줄어든 요즘 집에서도 간편하게
 ## 실전과 같은 모의면접을 진행할 수 있도록 개발
+
+<img width="701" height="696" alt="image" src="https://github.com/user-attachments/assets/c95ad3ef-7987-4012-87a5-e9b6d528c761" />
